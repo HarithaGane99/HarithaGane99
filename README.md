@@ -2,6 +2,11 @@
 
 I'm Haritha Ganegoda
 
+### About Me
+
+👋 I'm a third-year Software Engineering student at the University of Westminster.  I enjoy taking on coding challenges and exploring the world of software engineering!
+
+
 ### Skills and Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
