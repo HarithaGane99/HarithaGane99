@@ -2,6 +2,17 @@
 
 I'm Haritha Ganegoda
 
+### Skills and Technologies
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![React](https://img.shields.io/badge/-React-blue)
+![React Native](https://img.shields.io/badge/-React_Native-blueviolet)
+![Java](https://img.shields.io/badge/-Java-orange)
+![Node.js](https://img.shields.io/badge/-Node.js-green)
+![Python](https://img.shields.io/badge/-Python-blue)
+![PHP](https://img.shields.io/badge/-PHP-purple)
+
+
 <!--
 **HarithaGane99/HarithaGane99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
