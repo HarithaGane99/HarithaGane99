@@ -4,7 +4,7 @@ I'm Haritha Ganegoda
 
 ### About Me
 
-👋 I'm a third-year Software Engineering student at the University of Westminster.  I enjoy taking on coding challenges and exploring the world of software engineering!
+👋 I'm a third-year Software Engineering student of the University of Westminster affiliated with the Informatics Institute of Technology, Sr Lanka.  I enjoy taking on coding challenges and exploring the world of software engineering!
 
 
 
