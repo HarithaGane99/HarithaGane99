@@ -6,6 +6,7 @@ I'm Haritha Ganegoda
 
 👋 I'm a third-year Software Engineering student at the University of Westminster.  I enjoy taking on coding challenges and exploring the world of software engineering!
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarithaGane99&&exclude_repo=gnomezgrave&layout=compact&theme=dracula" alt="languages"/>
 
 ### Skills and Technologies
 
