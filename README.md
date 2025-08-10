@@ -1,13 +1,14 @@
-### Hi there 👋
 
-I'm Haritha Ganegoda
+I'm **Haritha Ganegoda**
 
 ### About Me
 
-👋 I'm a third-year Software Engineering student of the University of Westminster affiliated with the Informatics Institute of Technology, Sr Lanka.  I enjoy taking on coding challenges and exploring the world of software engineering!
+🎓 **Graduate Software Engineer** (BEng Hons, Second Class Upper) from the University of Westminster (affiliated with the Informatics Institute of Technology, Sri Lanka).  
+💻 Passionate about building **full-stack applications**, **mobile apps**, and exploring **AI & deep learning**.  
+🚀 Experienced in delivering real-world projects through academic work and an internship at **Niftron (Pvt) Ltd**.  
+🌱 Currently learning **DevOps** and **Cloud-native development**.
 
-
-
+---
 
 ### Skills and Technologies
 
@@ -18,7 +19,10 @@ I'm Haritha Ganegoda
 ![Node.js](https://img.shields.io/badge/-Node.js-green)
 ![Python](https://img.shields.io/badge/-Python-blue)
 ![PHP](https://img.shields.io/badge/-PHP-purple)
-
+![Next.js](https://img.shields.io/badge/-Next.js-black)
+![MySQL](https://img.shields.io/badge/-MySQL-blue)
+![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
+![Figma](https://img.shields.io/badge/-Figma-red)
 
 <!--
 **HarithaGane99/HarithaGane99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
